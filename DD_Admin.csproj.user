@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Addcategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Addfootwear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashbaoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DFootwear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DOutlet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DThirdparty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Head_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Head_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outlet_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outlet_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thirdpty_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thirdpty_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
